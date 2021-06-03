@@ -86,7 +86,7 @@ function eight(){
 
 function nine(){
   word = sentence[9];
-  ts = 175;
+  ts = 165;
   speed = 5;
 }
 
