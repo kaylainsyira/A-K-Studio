@@ -56,7 +56,7 @@ function three(){
 
 function four(){
   word = sentence[4];
-  ts = 100;
+  ts = 150;
   speed = 5;
 }
 
@@ -86,7 +86,7 @@ function eight(){
 
 function nine(){
   word = sentence[9];
-  ts = 150;
+  ts = 200;
   speed = 5;
 }
 
